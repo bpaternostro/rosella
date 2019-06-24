@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.autom.prisma.rosella.AppTest" duration-ms="10" started-at="2019-06-24T14:59:31Z" finished-at="2019-06-24T14:59:31Z">
+  <suite name="com.autom.prisma.rosella.AppTest" duration-ms="8" started-at="2019-06-24T19:40:28Z" finished-at="2019-06-24T19:40:28Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="10" started-at="2019-06-24T14:59:31Z" finished-at="2019-06-24T14:59:31Z">
+    <test name="Command line test" duration-ms="8" started-at="2019-06-24T19:40:28Z" finished-at="2019-06-24T19:40:28Z">
     </test> <!-- Command line test -->
   </suite> <!-- com.autom.prisma.rosella.AppTest -->
 </testng-results>
