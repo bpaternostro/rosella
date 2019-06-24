@@ -1,0 +1,4 @@
+com\autom\dataDriven\MongoConnector.class
+com\autom\prisma\rosella\App.class
+com\autom\prisma\rosella\Constant.class
+com\autom\dataDriven\Mongo.class
